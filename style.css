@@ -1,0 +1,124 @@
+.body-home{
+    background-image: url('images/meals3.png');
+    height: 10%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;  
+    
+}
+
+.body-meals {
+ background-image: url('images/meals3.png');
+ background-position: center;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.header{
+    width: 50%;
+    height: 10px;
+    top: 0;
+    position: fixed;
+    overflow: visible;
+    text-align: center;
+}
+
+.header i {
+    float: left;
+    padding: 0;
+    color: blue;
+}
+
+
+#home-logo-img{
+    width: 150px;
+    display: block;
+    
+    padding-top: 0;
+   
+}
+
+/********** HOME PAGE MENU*********/
+
+
+.home-menu-item{
+    text-decoration: none;
+    text-transform:uppercase;
+     color: black;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #ffffff;
+     display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+.home-menu-item {
+ 
+ background-position: left;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+/********** MEALS PAGE MENU*********/
+
+.meals-list a {
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+
+.meals-list-item{
+    border:5px solid #fafafa;
+    margin: 20px;
+}
+
+.meals-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+.meals-list-item p3{
+    color: whitesmoke;
+}
+
+.meals-list-item i{
+    float: right;
+    color: #1a1a1a;
+    
+}
+
+.meals-list-item p{
+    font-size: 20px;
+    font-style:oblique;
+    color: blue;
+    margin-top: _7px;
+    padding-left: 10px;
+    text-align: center;
+}
+.meals-list-item p4{
+   font-size: 20px;
+    font-style:oblique;
+    color: whitesmoke;
+    margin-top: _7px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
